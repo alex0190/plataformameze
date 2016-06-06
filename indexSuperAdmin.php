@@ -132,7 +132,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 animate-in" data-anim-type="fade-in-up-large">
-                    <a href="admin/admin/index.php" class="portfolio-box">
+                    <a href="admin/admin/administradores/index.php" class="portfolio-box">
                         <img src="images/portfolio/13.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
