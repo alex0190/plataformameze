@@ -1,0 +1,132 @@
+.perfil_div
+{
+    width: 100%;
+    overflow: auto;
+    height: 40px;
+}
+
+.perfil_div_2
+{
+    width: 50%;
+    float: left;
+    height: 40px;
+}
+
+.perfil_label
+{
+    font-weight: bold;
+    padding-left: 20px;
+    width: 150px;
+    float: left;
+}
+
+.perfil_value
+{
+    padding-left: 20px;
+    width: 180px;
+    float: left;
+}
+
+#wrapper_top
+{
+    overflow: auto;
+}
+
+#profile_picture
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px 0 0 0;
+    display: table;
+    text-align: center;
+}
+
+#profile_picture_inner
+{
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 200px;
+    min-width: 200px;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+#foto_maestro
+{
+    max-height: 197px;
+    max-width: 200px;
+    text-align: center;
+}
+
+#icono_foto
+{
+    height: 50px;
+    width: 50px;
+    z-index: 2;
+}
+
+
+#qr_code
+{
+    border: 1px solid #CCC;
+    float: right;
+    margin: 20px 0 0 10px;
+}
+
+#tabs
+{
+    font-size: 12px;
+    margin: auto;
+    overflow: auto;
+    width: 99%;
+}
+
+.dataTables_wrapper
+{
+    margin: 0px !important;
+    border: 0px solid #CCCCCC !important;
+    padding: 0px !important;
+}
+
+#prompt_email, #prompt_telefono
+{
+    width: 300px;
+}
+
+#prompt_tutor
+{
+    width: 400px;
+}
+
+#direccionVal
+{
+    width: 80%;
+}
+
+.prompt_column
+{
+    float: left;
+    width: 180px;
+}
+
+.original{ margin-left: 55px; }
+.copia{ margin-left: 10px; }
+
+#div_boton_cuentas
+{
+    width: 300px;
+    border: 1px solid #CCC;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+#wrapper_select
+{
+    width: 100%;
+}
+
+#dialogo_cambio
+{
+    font-size: 12px;
+}

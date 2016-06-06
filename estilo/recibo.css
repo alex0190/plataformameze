@@ -1,0 +1,44 @@
+﻿#top_panel
+{
+    margin: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.nud_wrapper
+{
+    float: left;
+    width: 160px;
+    font-size: 12px;
+    margin-bottom: 0px;
+    padding-left: 5px;
+}
+
+.nud_wrapper label
+{
+    float: left;
+}
+
+.nud
+{
+    float: left;
+}
+
+/* Valores por default del recibo */
+#recibo_wrapper
+{
+    margin-top: 50px;
+}
+
+#reciboVal, #fechaVal, #importeVal
+{
+    display: block;
+    float: right;
+}
+
+@media print
+{
+    #top_panel, #left_panel, #right_panel
+    {
+        display: none;
+    }
+}

@@ -1,0 +1,48 @@
+#div_asignaturas
+{
+    float: left;
+    width: 100%;
+}
+
+/** Select */
+#cicloVal
+{
+    border: 1px solid #152975;
+    height: 40px;
+    padding: 10px;
+    width: 200px;
+}
+
+#formNuevaMateria
+{
+    font-size: 12px;
+}
+
+/** Estilo para el formulario del modal **/
+.grupo
+{
+    overflow: auto;
+    padding: 5px;
+}
+
+.grupoNombre
+{
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#div_asignar_docentes
+{
+    margin: 20px 0;
+}
+
+.docenteVal
+{
+    margin-left: 5px;
+}
+
+#boton_agregar_materia
+{
+    margin-top: 20px;
+}

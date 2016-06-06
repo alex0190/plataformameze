@@ -1,0 +1,111 @@
+*
+{
+    font-family: "Open Sans", tahoma, helvetica, arial;
+    background-color: #B9D3FA;
+}
+
+#panel_izquierdo
+{
+    padding-top: 300px;
+    background-image: url("/media/imagenes/logo50.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.index_opcion
+{
+    width: 30%;
+    margin: 20px 10%;
+    border: 3px solid #eee;
+    border-radius: 5px;
+    float: left;
+    padding: 20px;
+}
+
+.index_opcion:hover
+{
+
+}
+
+.index_opcion img
+{
+    width: 100%;
+    min-height: 116px;
+}
+
+#bot
+{
+    padding: 0 73px;
+}
+
+.index_opcion_secundaria
+{
+    width: 10%;
+    margin: 10px;
+    border: 3px solid #EEE;
+    border-radius: 5px;
+    float: left;
+    padding: 20px;
+}
+
+.index_opcion footer
+{
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+
+.index_opcion_secundaria footer
+{
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+}
+
+.index_opcion_large
+{
+    width: 80%;
+    margin: 20px 10%;
+    border: 3px solid #eee;
+    border-radius: 5px;
+    float: left;
+    padding: 20px;
+}
+
+.index_opcion_large img
+{
+    float: left;
+}
+
+.index_opcion_large footer
+{
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+
+#panel_derecho
+{
+    padding-top: 100px;
+}
+
+#foto
+{
+    text-align: center;
+}
+
+#foto footer
+{
+    margin: 20px 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#carousel_noticias
+{
+    width: 100%;
+    padding: 10px 30px;
+    height: 300px;
+    border: 1px solid black;
+    background: #fff;
+}
